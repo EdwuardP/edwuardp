@@ -1,5 +1,6 @@
 # Hola 👋, soy ***Edwuard Pereda*** ✌️
 ## ***Ingeniero de Sistemas Computacionales*** 💻 e ***Ingeniero Industrial*** 👷‍♂️
+<div align="center">Este texto está centrado</div>
 
 - [x] VCS badges
 ##### 
