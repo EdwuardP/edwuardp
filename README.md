@@ -1,5 +1,5 @@
 # Hola, mi nombre es Edwuard Pereda :v:
-## Ingeniero de Sistemas Computacionales e Ingeniero Industrial :computer:
+## Ingeniero de Sistemas Computacionales e Ingeniero Industrial 👷‍♂️ :computer:
 ### :point_right: Esto es Markdown: un lenguaje de marcado ligero que permite dar formato a texto plano usando símbolos sencillos (como #, *, -)
 #### texto
 ##### texto
