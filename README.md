@@ -1,6 +1,4 @@
-<center>
-# Hola 👋, soy ***Edwuard Pereda*** ✌️
-</center>
+<div align="center"># Hola 👋, soy ***Edwuard Pereda*** ✌️</div>.
 ## ***Ingeniero de Sistemas Computacionales*** 💻 e ***Ingeniero Industrial*** 👷‍♂️
 
 - [x] VCS badges
