@@ -1,6 +1,10 @@
 <div align="center"># Hola 👋, soy ***Edwuard Pereda*** ✌️</div>.
 ## ***Ingeniero de Sistemas Computacionales*** 💻 e ***Ingeniero Industrial*** 👷‍♂️
 
+<h1 align="center">Hola 👋, soy <strong>Edwuard Pereda</strong> ✌️</h1>
+
+<h2 align="center"><strong>Ingeniero de Sistemas Computacionales</strong> 💻 e <strong>Ingeniero Industrial</strong></h2>
+
 - [x] VCS badges
 ##### 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
