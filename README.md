@@ -1,15 +1,5 @@
 # Hola 👋, soy ***Edwuard Pereda*** ✌️
 ## ***Ingeniero de Sistemas Computacionales*** 💻 e ***Ingeniero Industrial*** 👷‍♂️
-### 👉 Esto es Markdown: un lenguaje de marcado ligero que permite dar formato a texto plano usando símbolos sencillos (como #, *, -)
-
-* - 
-- -
-
-1. a
-
-[URL](link)
-
-![[png]]
 
 - [x] VCS badges
 ##### 
