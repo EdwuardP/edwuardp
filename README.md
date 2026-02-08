@@ -1,5 +1,5 @@
 <h1 align="center">Hola!!! 👋, soy <strong>Edwuard Pereda</strong> ✌️</h1>
-<h2 align="center"><strong>Ingeniero de Sistemas Computacionales</strong> 💻 · <strong>Ingeniero Industrial</strong></h2>
+<h2 align="center"><strong>Ingeniero de Sistemas Computacionales</strong> 💻 · <strong>Ingeniero Industrial</strong> 👷‍♂️</h2>
 <p align="center"> Máaestro en Ingeniería de Sistemas · Maestro en Administración de Empresas</p>
 <hr/>
 
