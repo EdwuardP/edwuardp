@@ -1,20 +1,20 @@
-# Hola!!!, mi nombre es **Edwuard Pereda** :v:
-## Ingeniero de Sistemas Computacionales 💻 e Ingeniero Industrial 👷‍♂️
-### :point_right: Esto es Markdown: un lenguaje de marcado ligero que permite dar formato a texto plano usando símbolos sencillos (como #, *, -)
+# Hola 👋, mi nombre es **Edwuard Pereda** ✌️
+## [x] Soy Ingeniero de Sistemas Computacionales 💻 e [x] Ingeniero Industrial 👷‍♂️
+### 👉 Esto es Markdown: un lenguaje de marcado ligero que permite dar formato a texto plano usando símbolos sencillos (como #, *, -)
 #### texto
 ##### texto
 cursiva
 *texto*
-_texto_
+
 negrita
 **texto**
-__texto__
+
 cursiva con negrita
 ***texto***
-___texto___
+
 tachado
 ~texto~
-~~texto~~
+
 
 * - 
 - -
