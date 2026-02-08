@@ -1,7 +1,7 @@
 # Hola, mi nombre es Edwuard Pereda 👋
 ### Freelance fullstack iOS & Android engineer
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![https://github.com/EdwuardP](./edwuardp_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
