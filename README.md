@@ -1,21 +1,72 @@
-<h1 align="center">Hola!!! 👋, soy <strong>Edwuard Pereda</strong> ✌️</h1>
-<h2 align="center"><strong>Ingeniero de Sistemas Computacionales</strong> 💻 · <strong>Ingeniero Industrial</strong> 👷‍♂️</h2>
-<p align="center"> Máaestro en Ingeniería de Sistemas · Maestro en Administración de Empresas</p>
-<hr/>
+<h1 align="center">¡Hola! 👋 Soy <strong>Edwuard Pereda</strong> ✌️</h1>
 
-- [x] VCS badges
-##### 
+<h3 align="center">
+  Ingeniero de Sistemas Computacionales 💻 · Ingeniero Industrial 👷‍♂️
+</h3>
+
+<p align="center">
+  <strong>Maestro en Ingeniería de Sistemas</strong> · 
+  <strong>Maestro en Administración de Empresas</strong>
+</p>
+
+<p align="center">
+  Docente universitario · Desarrollo de software · Ciencia de datos · Automatización · Innovación tecnológica
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍🏫 Sobre mí
+
+Soy un profesional orientado al desarrollo de soluciones tecnológicas, la enseñanza universitaria y la aplicación práctica de la ingeniería en contextos reales.  
+En este perfil comparto proyectos, tecnologías, herramientas, recursos de aprendizaje y experiencias vinculadas al desarrollo de software, análisis de datos, automatización y educación.
+
+Mi objetivo en GitHub es construir, documentar y compartir conocimiento de forma clara, útil y profesional.
+
+---
+
+## 🎯 Enfoque profesional
+
+- 💻 Desarrollo de software
+- 📊 Ciencia de datos y analítica
+- 🗄️ Bases de datos y arquitecturas de información
+- ☁️ Cloud computing y automatización
+- 🤖 Inteligencia artificial aplicada
+- 🧑‍🏫 Docencia universitaria y formación tecnológica
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+> A continuación presento mi stack tecnológico y ecosistema de herramientas.  
+> He mantenido todas las categorías de mi perfil, pero ahora organizadas para una mejor lectura e impacto visual.
+
+<details open>
+  <summary><strong>🔧 Control de versiones y DevOps</strong></summary>
+  <br>
+
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-- [x] IDE badges
-##### 
+</details>
+
+<details open>
+  <summary><strong>🧠 IDEs y entornos de desarrollo</strong></summary>
+  <br>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-- [x] Languaje bagdes
-##### 
+</details>
+
+<details open>
+  <summary><strong>💬 Lenguajes de programación</strong></summary>
+  <br>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,16 +80,24 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- [x] Framework badges
-##### 
+</details>
+
+<details open>
+  <summary><strong>⚙️ Frameworks y librerías</strong></summary>
+  <br>
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 
-- [x] Data Base badges
-##### 
+</details>
+
+<details open>
+  <summary><strong>🗄️ Bases de datos</strong></summary>
+  <br>
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -49,8 +108,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-- [x] Machile Learning & Deep Learning badges
-##### 
+</details>
+
+<details open>
+  <summary><strong>📈 Machine Learning y Deep Learning</strong></summary>
+  <br>
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,25 +122,41 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-- [x] IA badges
-##### 
+</details>
+
+<details open>
+  <summary><strong>🤖 Inteligencia artificial</strong></summary>
+  <br>
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-- [x] Cloud badges
-##### 
+</details>
+
+<details>
+  <summary><strong>☁️ Cloud</strong></summary>
+  <br>
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- [x] Office Automation badges
-##### 
+</details>
+
+<details>
+  <summary><strong>🧾 Office y productividad</strong></summary>
+  <br>
+
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-- [x] Operating System badges
-##### 
+</details>
+
+<details>
+  <summary><strong>💻 Sistemas operativos</strong></summary>
+  <br>
+
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -85,8 +164,12 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-- [x] Design badges
-##### 
+</details>
+
+<details>
+  <summary><strong>🎨 Diseño y contenido multimedia</strong></summary>
+  <br>
+
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -99,37 +182,104 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-- [x] CAD badges
-##### 
+</details>
+
+<details>
+  <summary><strong>📐 CAD y modelado</strong></summary>
+  <br>
+
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
 
-- [x] Research badges
-##### 
+</details>
+
+<details>
+  <summary><strong>🔎 Investigación y aprendizaje</strong></summary>
+  <br>
+
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-
-- [x] Education badges
-##### 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
-- [x] Browser badges
-##### 
+</details>
+
+<details>
+  <summary><strong>🌐 Navegadores y entorno web</strong></summary>
+  <br>
+
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-- [x] Blockchain badges
-##### 
+</details>
+
+<details>
+  <summary><strong>⛓️ Blockchain</strong></summary>
+  <br>
+
 ![Blockchaindotcom](https://img.shields.io/badge/blockchain.com-%232F3134?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 
+</details>
 
+---
 
+## 📚 ¿Qué encontrarán en mi GitHub?
 
+- Proyectos de desarrollo de software
+- Ejercicios y prácticas de programación
+- Recursos de aprendizaje
+- Experimentos con datos e inteligencia artificial
+- Repositorios orientados a enseñanza universitaria
+- Documentación técnica y ejemplos aplicados
+
+---
+
+## 🧑‍💻 Líneas de trabajo actuales
+
+- Desarrollo y mejora de soluciones informáticas
+- Análisis de datos y automatización de procesos
+- Integración de herramientas de IA en flujos de trabajo
+- Formación de estudiantes en programación y tecnología
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Gracias por visitar mi perfil.</strong><br>
+  <em>La tecnología, la educación y la innovación son herramientas para transformar realidades.</em>
+</p>
